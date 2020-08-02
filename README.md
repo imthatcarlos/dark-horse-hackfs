@@ -12,6 +12,7 @@ A decentralized data marketplace connecting advertisers and mobility users. Why?
 - [dark-horse-mobility-marketplace](github.com/imthatcarlos/dark-horse-mobility-marketplace) - React app
 - [dark-horse-mobility-contracts](github.com/imthatcarlos/dark-horse-mobility-contracts) - Ethereum smart contracts
 - [dark-horse-mobility-sdk](github.com/imthatcarlos/dark-horse-mobility-sdk) - react native app / sdk
+- [dark-horse-subgraph](github.com/imthatcarlos/dark-horse-subgraph) - The Graph subgraph
 
 ### Demo
 @TODO
